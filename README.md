@@ -1,4 +1,4 @@
-### 👀 Hello there! Welcome to my official Portfolio, A resumed view of my professional journey. Here, you'll discover a showcase of my projects, experience, skills, and much more.
+### 👀 Hello there! Welcome to my official Portfolio📙, A resumed view of my professional journey.🌱 Here, you'll discover a showcase of my projects, experience, skills, and much more.
 ### Also, I truly appreciate you taking the time to explore my portfolio. Your interest means the world to me. 👩‍💻🚀
 ### Sincerely,
 ### Alan Axel Castro Resendiz
