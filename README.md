@@ -1,7 +1,7 @@
-### Hi there👋
-### Welcome to my official Portfolio where you can see all my Professional Carrer, Since Projects, Experience, Skills and more.
-### Also, thank you a lot for taking the time to view my portfolio i greatly aprecciate that.✨✨✨
-
+### 👀 Hello there! Welcome to my official Portfolio, A resumed view of my professional journey. Here, you'll discover a showcase of my projects, experience, skills, and much more.
+### Also, I truly appreciate you taking the time to explore my portfolio. Your interest means the world to me. 👩‍💻🚀
+### Sincerely,
+### Alan Axel Castro Resendiz
 <!--
 **alancasre133/alancasre133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
