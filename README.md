@@ -1,6 +1,6 @@
 ### 👀 Hello there! Welcome to my official Portfolio📙, A resumed view of my professional journey.🌱 Here, you'll discover a showcase of my projects📖, experience🧑‍💻, skills✨, and much more.
 ### Also, I truly appreciate you taking the time to explore my portfolio. Your interest means the world to me. 👩‍💻🚀
-### watch it on my website [alancasre133porfolio](https://alancasre133.github.io/alancasre.github.io/)
+### watch it on my website 
 ### Sincerely,
 ### Alan Axel Castro Resendiz
 <!--
