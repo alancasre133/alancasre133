@@ -1,6 +1,4 @@
-### Also, I truly appreciate you taking the time to know more about me. Your interest means the world to me. 👩‍💻🚀
-### Sincerely,
-### Alan Axel Castro Resendiz
+
 <h1 align="center">Hi there 👀, I´m Alan Axel Castro Reséndiz</h1>
 <h3 align="center">🧑‍💻 Computer Science Student | 🌏 Developing for a better world</h3>
 
@@ -14,6 +12,9 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 <!--
+### Also, I truly appreciate you taking the time to know more about me. Your interest means the world to me. 👩‍💻🚀
+### Sincerely,
+### Alan Axel Castro Resendiz
 **alancasre133/alancasre133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
