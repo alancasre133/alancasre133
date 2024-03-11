@@ -1,7 +1,8 @@
+<center>
 # Hi there 👀, I´m Alan Axel Castro Reséndiz
 ### 🧑‍💻 Computer Science Student | 🌏 Developing for a better world
 ### Also, I truly appreciate you taking the time to explore my portfolio. Your interest means the world to me. 👩‍💻🚀
-
+</center>
 ### Sincerely,
 ### Alan Axel Castro Resendiz
 <!--
