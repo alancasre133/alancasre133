@@ -1,4 +1,5 @@
-### 👀 Hello there! Welcome to my github📙, A resumed view of some of my projects.🌱 Here, you'll discover a showcase of my projects📖, experience🧑‍💻, skills✨, and much more.
+# 👀 Hello there!, I´m Alan Axel Castro Reséndiz
+###🧑‍💻 Computer Science Student | 🌏 Developing for a better world
 ### Also, I truly appreciate you taking the time to explore my portfolio. Your interest means the world to me. 👩‍💻🚀
 
 ### Sincerely,
