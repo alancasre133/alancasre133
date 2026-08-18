@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👀, I´m Alan Axel Castro Reséndiz</h1>
-<h3 align="center">🧑‍💻 Computer Science Student | 🌏 Developing for a better world</h3>
+<h3 align="center">🧑‍💻 Computer Science Engineer | 🌏 Developing for a better world</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
