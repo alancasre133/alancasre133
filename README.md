@@ -2,12 +2,11 @@
 <h3 align="center">Software Engineer @ Amazon · building toward Physical AI & Robotics 🤖</h3>
 
 - 🤖 I build robots — meet **MELVINN**, a 6-DOF robotic arm + rover I built from scratch to learn Physical AI (it drives, grabs, talks, and displays)
-- 🧠 Focused on **robotics, perception & machine learning** — 3D reconstruction, computer vision, SLAM
+- 🧠 Focused on **Mobile development, robotics, perception & machine learning** — 3D reconstruction, computer vision, SLAM
 - 💻 Software Engineer at **Amazon** — backend infrastructure, AWS, CI/CD, serving 100M+ users
 - 🔬 Ex **Mitacs** AI Research Intern · ex **BMW** · 🏆 Etherfuse hackathon winner
 - 📱 I ship apps — AI/audio tools on the Play Store under *Willydit*
-- 🌱 Currently learning **ROS 2, modern C++, and robot learning (VLA models)**
-- 🎯 Goal: build the next generation of intelligent robots
+- 🌱 Currently learning **Kubernetes, Kotlin, ROS 2, modern C++, and robot learning (VLA models)**
 - 🌐 Portfolio: <a href="https://willydit.vercel.app/alan-axel-castro.html">willydit.vercel.app/alan-axel-castro</a>
 - 📫 Reach me: **alanaxelcastroresendiz@gmail.com**
 
