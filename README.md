@@ -1,4 +1,4 @@
-<h1 align="center">Alan Axel Castro Reséndiz</h1>
+<h1 align="center">Alan Axel Castro Resendiz</h1>
 <p align="center">Software Engineer at Amazon · building toward Physical AI & Robotics</p>
 
 <p align="center">
