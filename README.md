@@ -1,8 +1,9 @@
-<h1 align="center">Alan Axel Castro Resendiz</h1>
-<p align="center">Software Engineer at Amazon · building toward Physical AI & Robotics</p>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:48cae4,100:0077b6&height=200&section=header&text=Alan%20Axel%20Castro%20Resendiz&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20at%20Amazon%20%C2%B7%20building%20toward%20Physical%20AI%20and%20Robotics&descSize=16&descAlignY=58&animation=fadeIn"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=1200&color=0071E3&center=true&vCenter=true&width=600&lines=Software+development+engineer;Physical+AI+%26+Robotics;Mobile+apps+that+ship" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3500&pause=1200&color=0077B6&center=true&vCenter=true&width=600&lines=Software+development+engineer;Physical+AI+%26+Robotics;Mobile+apps+that+ship" alt="typing"/>
 </p>
 
 <p align="center">
@@ -32,3 +33,4 @@
   <img src="https://skillicons.dev/icons?i=py,cpp,c,opencv,tensorflow,sklearn,aws,docker,kubernetes,linux,git,flutter,dart,js,react,nodejs,firebase,java,mysql&perline=10" alt="stack"/>
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:48cae4&height=120&section=footer"/>
